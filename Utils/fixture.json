@@ -1,0 +1,7 @@
+[
+    {"operator":"Add","testName":"Add"},
+    {"operator":"Subtract","testName":"Subtract"},
+    {"operator":"Multiply","testName":"Multiply"},
+    {"operator":"Divide","testName":"Divide"},
+    {"operator":"Concatenate","testName":"Concatenate"}
+]    
